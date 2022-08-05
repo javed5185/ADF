@@ -1,0 +1,9 @@
+{
+	"name": "2ndassignmentDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a8ec2e6-4243-4619-80c3-c96600948ab7",
+		"tenantId": "8c3dad1d-b6bc-4f8b-939b-8263372eced6"
+	}
+}
