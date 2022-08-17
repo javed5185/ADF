@@ -1,0 +1,16 @@
+{
+	"name": "blob_to_sql_table_with_email",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "",
+			"table": "Address_Derrived"
+		}
+	}
+}
