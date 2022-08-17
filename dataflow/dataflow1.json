@@ -6,7 +6,7 @@
 			"sources": [
 				{
 					"dataset": {
-						"referenceName": "On_Premise_to_stage",
+						"referenceName": "Stage",
 						"type": "DatasetReference"
 					},
 					"name": "source1"

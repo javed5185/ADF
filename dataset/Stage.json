@@ -10,6 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
+				"fileName": "Address.csv",
 				"folderPath": "Stage",
 				"container": "2ndassignment"
 			},
